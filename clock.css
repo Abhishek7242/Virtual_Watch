@@ -20,7 +20,7 @@
     font-size: 1.4rem;
     z-index: 100;
     top: 0;
-    box-shadow: 0 0 19px black;
+/*     box-shadow: 0 0 19px black; */
     position: sticky;
 }
 img{

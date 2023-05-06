@@ -59,7 +59,7 @@ img{
   
         content: "";
         position: absolute;
-        background: linear-gradient(45deg, rgb(255, 0, 0), rgb(145, 255, 0), blue, pink, aqua, rgb(3, 255, 32), purple, rgb(170, 0, 255), rgb(186, 52, 52), rgb(0, 0, 134), black);
+        background: black;
         box-shadow: 0 0 6px black;
         background-size: 400%;
         border-radius: 5px;
@@ -68,7 +68,7 @@ img{
         height:750px;
         width: 100%;
         z-index: -1;
-        animation: anime 80s linear infinite;
+/*         animation: anime 80s linear infinite; */
     
     }
     

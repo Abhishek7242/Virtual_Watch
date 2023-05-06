@@ -9,7 +9,7 @@
 }
 
 body{
-    background:black;}
+    background:white;}
 
 #navbar{
     display: flex;
@@ -62,7 +62,7 @@ img{
   
         content: "";
         position: absolute;
-        background: black;
+/*         background: black; */
         box-shadow: 0 0 6px black;
         background-size: 400%;
         border-radius: 5px;

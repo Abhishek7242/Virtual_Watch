@@ -8,6 +8,9 @@
     top: 6px;
 }
 
+body{
+    background:black;}
+
 #navbar{
     display: flex;
     /* justify-content: center; */

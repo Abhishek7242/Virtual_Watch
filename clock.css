@@ -48,7 +48,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 694px;
+    height: 700px;
     overflow: hidden;
     
 }
@@ -65,7 +65,7 @@ img{
         border-radius: 5px;
         top: 0px;
         left: 0px;
-        height:743px;
+        height:750px;
         width: 100%;
         z-index: -1;
         animation: anime 80s linear infinite;
